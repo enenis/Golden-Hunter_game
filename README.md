@@ -3,5 +3,5 @@ Hello, I made a gold hunter game in this project. I used c# language in the game
 <hr>
 
 <h1>Important</h1>
-You must download this file to play:
-https://s2.dosya.tc/server20/6mm8i0/UnityPlayer.dll.html
+You must download this zip file to play:
+https://www.dosya.tc/server39/0kz2zz/Altin_Avcisi.zip.html
